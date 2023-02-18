@@ -1,5 +1,5 @@
 # HomeSpan_HomeKit_HDT22_Environmental_Sensor
-HomeSpan_HomeKit_HDT22_Environmental_Sensor is a working example of ESP32 + HDT11/HD21/HDT22 temperature and humidity sensor implementation to HomeKit via HomeSpan Library.
+HomeSpan_HomeKit_HDT22_Environmental_Sensor is a working example of ESP32 + HDT11/HD21/HDT22 temperature and humidity sensor implementation to HomeKit with HomeSpan Library.
 
 Hardware used for this project:
 - an ESP32 board,
