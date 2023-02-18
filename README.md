@@ -8,9 +8,8 @@ An Adafruit Environmental Sensor, such as the HDT11
 Built based on https://github.com/HomeSpan/TempSensorI2C
 
 The following checks are to be performed to ensure hardware-software match:
-HomeSpan_HomeKit_HDT22_Environmental_Sensor.ino
+
 1) select the pin connected to status LED
 2) select the pin connected to control push-button
-DEV_Sensors.h
 4) select the DHT type
 5) select the ESP pin connected to DHT 1-wire bus
