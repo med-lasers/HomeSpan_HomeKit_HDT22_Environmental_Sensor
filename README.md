@@ -5,9 +5,9 @@ Hardware used for this project:
 - an ESP32 board,
 - an Adafruit environmental sensor, such as the HDT11.
 
-Built based on:
-https://github.com/HomeSpan/TempSensorI2C
-https://github.com/adafruit/DHT-sensor-library
+Built based on the following libraries:
+- https://github.com/HomeSpan/TempSensorI2C
+- https://github.com/adafruit/DHT-sensor-library
 
 The following checks are to be performed to ensure hardware-software match:
 - select the pin connected to status LED,
