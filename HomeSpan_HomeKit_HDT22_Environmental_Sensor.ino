@@ -6,7 +6,7 @@ void setup()
 {
   Serial.begin(115200);
   homeSpan.setStatusPin(2); //select the pin connected to LED
-//homeSpan.setControlPin(0); //select the pin connected to control pushbutton
+//homeSpan.setControlPin(0); //select the pin connected to control push-button
 
   homeSpan.begin(Category::Sensors, "Environmental Sensor"); 
 
